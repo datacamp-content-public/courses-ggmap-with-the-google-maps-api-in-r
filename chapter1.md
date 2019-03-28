@@ -1,19 +1,17 @@
 ---
-title: 'Chapter Title Here'
+title: 'Setup RStudio'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-key: 2bafef99a3
-lang: r
+key: 7683200cc3
 xp: 100
-skills: 1
 ```
 
-This is an example exercise.
+
 
 `@instructions`
 
