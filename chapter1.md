@@ -41,7 +41,7 @@ version$version.string
 `@sct`
 ```{r}
 ex() %>% 
-    check_code('(\\[1\\]){0,1}[:space:]*(\\")*(R version ){0,1}3\\.[4-9]\\.[2-0]', fixed = TRUE)
+    check_code('(\\[1\\]){0,1}[:space:]*(\\")*(R version ){0,1}3\\.[4-9]\\.[0-9]', fixed = TRUE)
 
 
 success_msg("That looked really good!", TRUE)
