@@ -36,5 +36,5 @@ xp: 100
 
 `@sct`
 ```{r}
-
+success_msg("That looked really good!", TRUE)
 ```
