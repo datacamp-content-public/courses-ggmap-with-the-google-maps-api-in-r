@@ -11,10 +11,14 @@ key: 7683200cc3
 xp: 100
 ```
 
-
+context blablba
+more context blablba
 
 `@instructions`
-
+- instructions
+- instructions 2
+- instructions 3
+- instructions 4
 
 `@hint`
 
@@ -31,7 +35,7 @@ xp: 100
 
 `@solution`
 ```{r}
-
+version$version.string
 ```
 
 `@sct`
